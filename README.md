@@ -10,6 +10,10 @@ the rest is mine.
 
 **Things I've made**
 
+- [esquadro](https://github.com/quietwright/esquadro): an offline validator for Brazilian electronic
+  invoices (NF-e/NFC-e). It reads the tax authority's rule PDFs (struck-through text and all), turns
+  them into 974 machine-checkable rules, and tells you which rejection you would get before you send
+  the invoice. Docs in Portuguese, since its users are in Brazil.
 - [endgrain](https://github.com/quietwright/endgrain): identicons that grow. Every string becomes
   a tree, and the picture is the cut through its trunk. The tree on the right is this account's.
   `npm install endgrain`
