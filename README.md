@@ -1,4 +1,4 @@
-<img src="tree.svg" width="120" align="right" alt="A 30-year-old cherry with one heart check.">
+<img src="tree.svg" width="120" align="right" alt="A 30-year-old cherry.">
 
 ### quietwright
 
@@ -12,3 +12,4 @@ the rest is mine.
 
 - [endgrain](https://github.com/quietwright/endgrain): identicons that grow. Every string becomes
   a tree, and the picture is the cut through its trunk. The tree on the right is this account's.
+  `npm install endgrain`
